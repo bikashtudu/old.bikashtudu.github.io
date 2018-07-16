@@ -1,0 +1,120 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    # Site Settings
+    title: Resume
+    url: 'https://bikashtudu.github.io'
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name: Bikash Kumar Tudu
+    tagline: Student
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: bikashtudu@outlook.com
+    phone: 877 091 XXXX
+    website: blog.webjeda.com #do not add http://
+    linkedin: bikashtudu
+    github: bikashtudu
+    twitter: '@bikashtudu'
+
+    languages:
+        - language:
+          idiom: Hindi
+          level: Native
+        - language:
+          idiom: English
+          level: Professional
+        
+    interests:
+        - interest:
+          item: Reading Books & Novels
+          link:
+        - interest:
+          item: Watching Animes
+          link:
+
+        
+
+
+
+
+career-profile: 
+    title: Career Profile
+    text: ''
+
+
+studies: 
+    - education:
+      degree: BTech in Computer Science Engineering
+      university: Indian Institute of Technology, Indore
+      time: 2015 - Present
+      details: ""
+
+
+
+experiences:
+    title: Experiences
+    
+    
+    experiences:
+        - role: Software Intern
+          time: May - July
+          company: MAQ Software Hyderabad, India
+          details: 
+
+
+projects:
+    title: Projects
+    intro: "Undergrad projects"
+    
+    projects:
+      - project:
+        title: Library Management Software
+        link: "#"
+        tagline: "Java(Swings) + MySQL based LMS"
+      
+
+
+
+
+publications:
+    title: Publications
+    intro: 
+    
+    publications:
+      - paper:
+        title: 
+        authors: 
+        conference: 
+      
+
+
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: C++
+          level: 90%
+        - skill:
+          name: C
+          level: 90%
+        - skill:
+          name: Python
+          level: 75%
+        - skill:
+          name: Java
+          level: 75%
+        - skill:
+          name: Octave
+          level: 60%
+        - skill:
+          name: Bash Script
+          level: 60%
+
+
+footer: 
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
